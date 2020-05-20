@@ -11,11 +11,15 @@ Exercícios e desafios do curso de Java da aplataform Alura.
    
   - :coffee: [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
    
-   
-# Organização das pastas 
 
-:bookmark: 
+# Organização das pastas
 
-:bookmark: 
+   :bookmark: 
+   :bookmark:
+   :bookmark: 
+
+As pastas contem ao exercícios desenvolvidos e um readme com anotações realizadas. 
+
+# Assuntos abordados
 
 
