@@ -36,6 +36,13 @@ As pastas contem ao exercícios desenvolvidos e um readme com anotações realiz
    :bookmark: [JavaBank - encapsulado](https://github.com/Trooper2123/EstudoJava/tree/master/JavaBank-encapsulado)
             Introdução ao encapsulamento e utilização de getters e setters.
             
+            
+   :bookmark: [JavaBank - funcionarios](https://github.com/Trooper2123/EstudoJava/tree/master/JavaBank-herdado-funcionarios)
+            Introdução ao conceito de herança.
+            
+   :bookmark: [JavaBank - contas](https://github.com/Trooper2123/EstudoJava/tree/master/Javabank-herdado-conta)
+           Aprofundamento em herança e utilização de abstração (classes e métodos) .
+            
    :bookmark: [Desafios Iniciante](https://github.com/Trooper2123/EstudoJava/tree/master/Desafios-B%C3%A1sico)
                Desafios de dificuldade fácil propostos durante o curso.
       
