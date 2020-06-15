@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AliquotaIR/AliquotaIR.iml" filepath="$PROJECT_DIR$/AliquotaIR/AliquotaIR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BanckUp/BanckUp.iml" filepath="$PROJECT_DIR$/BanckUp/BanckUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construtores/Construtores.iml" filepath="$PROJECT_DIR$/Construtores/Construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio-ListaValores/Desafio-ListaValores.iml" filepath="$PROJECT_DIR$/Desafio-ListaValores/Desafio-ListaValores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios-Básico/Desafios-Básico.iml" filepath="$PROJECT_DIR$/Desafios-Básico/Desafios-Básico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EstudoJava.iml" filepath="$PROJECT_DIR$/.idea/EstudoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBank/JavaBank.iml" filepath="$PROJECT_DIR$/JavaBank/JavaBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBank-composto/JavaBank-composto.iml" filepath="$PROJECT_DIR$/JavaBank-composto/JavaBank-composto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBank-encapsulado/JavaBank-encapsulado.iml" filepath="$PROJECT_DIR$/JavaBank-encapsulado/JavaBank-encapsulado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBank-herdado-funcionarios/JavaBank-herdado-funcionarios.iml" filepath="$PROJECT_DIR$/JavaBank-herdado-funcionarios/JavaBank-herdado-funcionarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javabank-herdado-conta/Javabank-herdado-conta.iml" filepath="$PROJECT_DIR$/Javabank-herdado-conta/Javabank-herdado-conta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sintaxe-Basica/Sintaxe-Basica.iml" filepath="$PROJECT_DIR$/Sintaxe-Basica/Sintaxe-Basica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SplitString/SplitString.iml" filepath="$PROJECT_DIR$/SplitString/SplitString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variaveis-e-Fluxo/Variaveis-e-Fluxo.iml" filepath="$PROJECT_DIR$/Variaveis-e-Fluxo/Variaveis-e-Fluxo.iml" />
+    </modules>
+  </component>
+</project>
